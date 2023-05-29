@@ -1,2 +1,10 @@
 .cabeçalho{background-color: #536674;color: rgb(0, 0, 0);display: flex;justify-content: space-around;}
 .imagem-logo{width: 80px;}
+.cabeçalho-lista{display: inline-block; margin:0 16 px}
+.site {background-color: rgba(255, 255, 255, 0.671); color: #0a0a0a}
+.imagem-logo{width: 80px}
+.rodape{background-color: #3f8846; color: white; display: flex; justify-content: space-around;}
+.vendas-div{display: inline-block;}
+.clube{text-align: center; font-weight: 700; font-size: 20px;}
+.loja{text-align: :center;}
+.imagem-vendas{width: 180px; height: 130px;}
