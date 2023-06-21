@@ -1,9 +1,9 @@
-.cabeçalho{background-color: #536674;color: rgb(0, 0, 0);display: flex;justify-content: space-around;}
+.cabeçalho{background-color: #627c8f;color: rgb(0, 0, 0);display: flex;justify-content: space-around;}
 .imagem-logo{width: 80px;}
 .cabeçalho-lista{display: inline-block; margin:0 16 px}
 .site {background-color: rgba(29, 35, 122, 0.178); color: #0e0303}
 .imagem-logo{width: 80px}
-.rodape{background-color: #526e55; color: white; display: flex; justify-content: space-around;}
+.rodape{background-color: #75869c; color: rgb(1, 23, 29); display: flex; justify-content: space-around;}
 .vendas-div{display: inline-block;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
 .loja{text-align: :center; font-weight: 700; font-size:20px;}
