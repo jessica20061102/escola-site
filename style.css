@@ -9,4 +9,5 @@
 .loja{text-align: :center; font-weight: 700; font-size:20px;}
 .imagem-vendas{width: 180px; height: 130px;}
 .vendas{text-align: center; color: #531212; font-weight: 700; font-size: 25px;}
-.melhores-opções{width: 180px; height: 130px;}
+.loja-venda{width: 180px;height: 130px;}
+.loja-div{display: inline-block;}
